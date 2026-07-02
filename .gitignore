@@ -1,0 +1,12 @@
+# Editor
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Vercel local dev
+.vercel
